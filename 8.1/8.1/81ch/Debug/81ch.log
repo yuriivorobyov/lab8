@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  81ch.cpp
+C:\Users\User\Desktop\Політех\АТП\8 тема\8.1\8.1\81ch\81ch.cpp(1): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+C:\Users\User\Desktop\Політех\АТП\8 тема\8.1\8.1\81ch\81ch.cpp(1): message : Add macro to precompiled header instead of defining here
+C:\Users\User\Desktop\Політех\АТП\8 тема\8.1\8.1\81ch\81ch.cpp(2): message : use of precompiled header
+C:\Users\User\Desktop\Політех\АТП\8 тема\8.1\8.1\8.1\8.1.cpp(22,13): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Desktop\Політех\АТП\8 тема\8.1\8.1\8.1\8.1.cpp(35,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Desktop\Політех\АТП\8 тема\8.1\8.1\81ch\81ch.cpp(18,1): error C2660: 'Count': function does not take 1 arguments
+C:\Users\User\Desktop\Політех\АТП\8 тема\8.1\8.1\8.1\8.1.cpp(41,5): message : see declaration of 'Count'
